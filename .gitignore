@@ -1,0 +1,30 @@
+# Python compiled files
+*.pyc
+*.pyo
+__pycache__/
+
+# Django database
+db.sqlite3
+*.log
+
+# Media files
+media/
+staticfiles/
+
+# Virtual environments
+venv/
+env/
+
+# IDE settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Optional: coverage reports
+htmlcov/
+.coverage
